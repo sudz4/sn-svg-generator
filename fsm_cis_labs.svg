@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-11-21T16:06:48.639395</dc:date>
+    <dc:date>2023-11-21T16:20:19.197745</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -32,7 +32,7 @@ z
   <g id="axes_1">
    <g id="text_1">
     <!-- FSM CIS Lab Instance -->
-    <g style="fill: #62d84e" transform="translate(0 19.5375) scale(0.24 -0.24)">
+    <g style="fill: #ea00f8" transform="translate(0 19.5375) scale(0.24 -0.24)">
      <defs>
       <path id="MarkerFelt-Thin-46" d="M 2662 4698 
 Q 2675 4410 2413 4346 
