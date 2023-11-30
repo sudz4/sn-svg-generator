@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="142.35pt" height="24.76875pt" viewBox="0 0 142.35 24.76875" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="153.42pt" height="24.76875pt" viewBox="0 0 153.42 24.76875" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-11-29T17:38:05.687076</dc:date>
+    <dc:date>2023-11-29T20:45:18.463035</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -22,8 +22,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 24.76875 
-L 142.35 24.76875 
-L 142.35 0 
+L 153.42 24.76875 
+L 153.42 0 
 L 0 0 
 L 0 24.76875 
 z
@@ -31,7 +31,7 @@ z
   </g>
   <g id="axes_1">
    <g id="text_1">
-    <!-- Matt's Sanbox -->
+    <!-- Matt's Sandbox -->
     <g style="fill: #95bade" transform="translate(0 19.5375) scale(0.24 -0.24)">
      <defs>
       <path id="MarkerFelt-Thin-4d" d="M 5811 13 
@@ -292,6 +292,44 @@ Q 2957 685 3034 570
 Q 3078 506 3072 410 
 z
 " transform="scale(0.015625)"/>
+      <path id="MarkerFelt-Thin-64" d="M 2534 38 
+Q 2458 -134 2061 -134 
+Q 1811 -134 1728 -32 
+Q 1696 0 1696 58 
+Q 1696 102 1728 198 
+Q 1760 294 1766 346 
+Q 1472 -70 1075 -70 
+Q 544 -70 301 531 
+Q 115 992 115 1728 
+Q 115 2406 403 2963 
+Q 723 3571 1190 3571 
+Q 1453 3571 1728 3149 
+L 1728 3974 
+Q 1728 4077 1645 4237 
+Q 1562 4397 1562 4480 
+Q 1562 4544 1594 4608 
+Q 1728 4896 2118 4896 
+Q 2438 4896 2515 4666 
+Q 2541 4589 2541 4518 
+Q 2541 4448 2499 4329 
+Q 2458 4211 2458 4128 
+L 2458 480 
+Q 2458 410 2509 310 
+Q 2560 211 2560 147 
+Q 2560 96 2534 38 
+z
+M 1651 1728 
+Q 1651 2022 1530 2419 
+Q 1395 2842 1267 2842 
+Q 1120 2842 1030 2451 
+Q 960 2131 960 1728 
+Q 960 1658 954 1498 
+Q 954 1344 954 1261 
+Q 954 538 1267 538 
+Q 1414 538 1536 954 
+Q 1651 1338 1651 1728 
+z
+" transform="scale(0.015625)"/>
       <path id="MarkerFelt-Thin-62" d="M 2637 1728 
 Q 2637 992 2451 531 
 Q 2208 -70 1677 -70 
@@ -400,9 +438,10 @@ z
      <use xlink:href="#MarkerFelt-Thin-53" x="302.874908"/>
      <use xlink:href="#MarkerFelt-Thin-61" x="357.249893"/>
      <use xlink:href="#MarkerFelt-Thin-6e" x="407.124878"/>
-     <use xlink:href="#MarkerFelt-Thin-62" x="460.124863"/>
-     <use xlink:href="#MarkerFelt-Thin-6f" x="507.999847"/>
-     <use xlink:href="#MarkerFelt-Thin-78" x="552.124832"/>
+     <use xlink:href="#MarkerFelt-Thin-64" x="459.874863"/>
+     <use xlink:href="#MarkerFelt-Thin-62" x="506.249847"/>
+     <use xlink:href="#MarkerFelt-Thin-6f" x="554.124832"/>
+     <use xlink:href="#MarkerFelt-Thin-78" x="598.249817"/>
     </g>
    </g>
   </g>
