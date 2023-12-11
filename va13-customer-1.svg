@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-12-10T19:38:05.845453</dc:date>
+    <dc:date>2023-12-10T19:39:14.775859</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -32,7 +32,7 @@ z
   <g id="axes_1">
    <g id="text_1">
     <!-- VA13 Customer #1 -->
-    <g style="fill: #e02b20" transform="translate(0 19.5375) scale(0.24 -0.24)">
+    <g style="fill: #003087" transform="translate(0 19.5375) scale(0.24 -0.24)">
      <defs>
       <path id="MarkerFelt-Thin-56" d="M 3149 4378 
 L 2112 614 
