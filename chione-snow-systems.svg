@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="207.78pt" height="24.76875pt" viewBox="0 0 207.78 24.76875" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="147.96pt" height="24.76875pt" viewBox="0 0 147.96 24.76875" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-01-11T14:40:23.930710</dc:date>
+    <dc:date>2024-01-11T14:42:07.402480</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -22,8 +22,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 24.76875 
-L 207.78 24.76875 
-L 207.78 0 
+L 147.96 24.76875 
+L 147.96 0 
 L 0 0 
 L 0 24.76875 
 z
@@ -31,8 +31,8 @@ z
   </g>
   <g id="axes_1">
    <g id="text_1">
-    <!-- Chione Snow Systems -->
-    <g style="fill: #003087" transform="translate(0 19.5375) scale(0.24 -0.24)">
+    <!-- Chione Systems -->
+    <g style="fill: #62d84e" transform="translate(0 19.5375) scale(0.24 -0.24)">
      <defs>
       <path id="MarkerFelt-Thin-43" d="M 2688 1350 
 Q 2080 -166 1472 -173 
@@ -256,55 +256,6 @@ Q 2509 2317 2720 2067
 Q 3021 1709 3021 1062 
 z
 " transform="scale(0.015625)"/>
-      <path id="MarkerFelt-Thin-77" d="M 4634 3494 
-Q 4653 3443 4653 3398 
-Q 4653 3296 4538 3149 
-Q 4397 2976 4365 2880 
-L 3661 755 
-Q 3629 653 3629 512 
-Q 3629 467 3629 371 
-Q 3635 282 3635 237 
-Q 3635 0 3475 -115 
-Q 3315 -230 3110 -230 
-Q 2803 -230 2598 0 
-Q 2496 115 2496 262 
-Q 2496 480 2483 538 
-L 2099 1958 
-L 1728 678 
-Q 1709 608 1696 410 
-Q 1683 250 1626 154 
-Q 1382 -243 1030 -243 
-Q 909 -243 806 -173 
-Q 678 -90 652 83 
-Q 627 256 602 422 
-L 38 2611 
-Q 19 2694 -77 2918 
-Q -154 3091 -154 3213 
-Q -154 3296 -122 3379 
-Q -64 3558 339 3558 
-Q 563 3558 640 3494 
-Q 736 3411 742 3226 
-Q 749 2944 755 2918 
-L 1139 1382 
-L 1677 2957 
-Q 1690 3002 1690 3046 
-Q 1690 3085 1674 3158 
-Q 1658 3232 1658 3270 
-Q 1658 3411 1811 3488 
-Q 1939 3558 2093 3558 
-Q 2304 3558 2445 3456 
-Q 2624 3328 2643 3126 
-Q 2662 2925 2675 2726 
-L 3059 1190 
-L 3674 3034 
-Q 3686 3072 3686 3117 
-Q 3686 3168 3667 3254 
-Q 3648 3341 3648 3386 
-Q 3648 3443 3674 3494 
-Q 3770 3667 4179 3667 
-Q 4563 3667 4634 3494 
-z
-" transform="scale(0.015625)"/>
       <path id="MarkerFelt-Thin-79" d="M 2995 3187 
 Q 3014 3059 2931 2912 
 Q 2784 2669 2778 2650 
@@ -473,17 +424,12 @@ z
      <use xlink:href="#MarkerFelt-Thin-65" x="218.749924"/>
      <use xlink:href="#MarkerFelt-Thin-20" x="256.749908"/>
      <use xlink:href="#MarkerFelt-Thin-53" x="281.749893"/>
-     <use xlink:href="#MarkerFelt-Thin-6e" x="334.249878"/>
-     <use xlink:href="#MarkerFelt-Thin-6f" x="386.999863"/>
-     <use xlink:href="#MarkerFelt-Thin-77" x="433.999847"/>
-     <use xlink:href="#MarkerFelt-Thin-20" x="505.999832"/>
-     <use xlink:href="#MarkerFelt-Thin-53" x="530.999817"/>
-     <use xlink:href="#MarkerFelt-Thin-79" x="583.749802"/>
-     <use xlink:href="#MarkerFelt-Thin-73" x="630.749786"/>
-     <use xlink:href="#MarkerFelt-Thin-74" x="674.124771"/>
-     <use xlink:href="#MarkerFelt-Thin-65" x="712.249756"/>
-     <use xlink:href="#MarkerFelt-Thin-6d" x="754.249741"/>
-     <use xlink:href="#MarkerFelt-Thin-73" x="828.749725"/>
+     <use xlink:href="#MarkerFelt-Thin-79" x="334.499878"/>
+     <use xlink:href="#MarkerFelt-Thin-73" x="381.499863"/>
+     <use xlink:href="#MarkerFelt-Thin-74" x="424.874847"/>
+     <use xlink:href="#MarkerFelt-Thin-65" x="462.999832"/>
+     <use xlink:href="#MarkerFelt-Thin-6d" x="504.999817"/>
+     <use xlink:href="#MarkerFelt-Thin-73" x="579.499802"/>
     </g>
    </g>
   </g>
