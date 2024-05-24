@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="221.025pt" height="21.635122pt" viewBox="0 0 221.025 21.635122" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-23T18:38:42.316212</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 21.635122 
+L 221.025 21.635122 
+L 221.025 0 
+L 0 0 
+L 0 21.635122 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <!-- (VR) DEMO 4 CDW -->
+    <g style="fill: #ffffff" transform="translate(0 17.338811) scale(0.24 -0.24)">
+     <defs>
+      <path id="BlackOpsOne-Regular-28" d="M 1547 -444 
+L 744 388 
+L 744 3763 
+L 1547 4591 
+L 2613 4591 
+L 2613 3763 
+L 2100 3763 
+L 2100 388 
+L 2613 388 
+L 2613 -444 
+L 1547 -444 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-56" d="M 1419 0 
+L -81 4147 
+L 1328 4147 
+L 2763 0 
+L 1419 0 
+z
+M 2931 125 
+L 2309 1950 
+L 2978 4147 
+L 4366 4147 
+L 2931 125 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-52" d="M 1966 1244 
+L 1966 2047 
+L 3003 2047 
+L 3003 3319 
+L 1966 3319 
+L 1966 4147 
+L 3544 4147 
+L 4375 3319 
+L 4375 2075 
+L 3731 1431 
+L 4516 0 
+L 3041 0 
+L 2453 1244 
+L 1966 1244 
+z
+M 366 0 
+L 366 4147 
+L 1747 4147 
+L 1747 0 
+L 366 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-29" d="M 447 -444 
+L 447 388 
+L 959 388 
+L 959 3763 
+L 447 3763 
+L 447 4591 
+L 1513 4591 
+L 2316 3763 
+L 2316 388 
+L 1513 -444 
+L 447 -444 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-20" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-44" d="M 1966 0 
+L 1966 828 
+L 2991 828 
+L 2991 3319 
+L 1966 3319 
+L 1966 4147 
+L 3544 4147 
+L 4375 3319 
+L 4375 828 
+L 3544 0 
+L 1966 0 
+z
+M 366 0 
+L 366 4147 
+L 1747 4147 
+L 1747 0 
+L 366 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-45" d="M 366 0 
+L 366 4147 
+L 1747 4147 
+L 1747 2503 
+L 3069 2503 
+L 3069 1703 
+L 1747 1703 
+L 1747 0 
+L 366 0 
+z
+M 2825 2947 
+L 2825 3344 
+L 1966 3344 
+L 1966 4147 
+L 4125 4147 
+L 4125 2947 
+L 2825 2947 
+z
+M 1966 0 
+L 1966 828 
+L 2744 828 
+L 2744 1244 
+L 4125 1244 
+L 4125 0 
+L 1966 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-4d" d="M 2828 0 
+L 369 4147 
+L 1838 4147 
+L 2950 2303 
+L 3825 3803 
+L 3825 1716 
+L 2828 0 
+z
+M 4028 0 
+L 4028 4147 
+L 5409 4147 
+L 5409 0 
+L 4028 0 
+z
+M 366 0 
+L 366 3763 
+L 1656 1597 
+L 1656 0 
+L 366 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-4f" d="M 2391 0 
+L 2391 844 
+L 2919 844 
+L 2919 3306 
+L 2391 3306 
+L 2391 4147 
+L 3463 4147 
+L 4300 3319 
+L 4300 828 
+L 3463 0 
+L 2391 0 
+z
+M 1109 0 
+L 269 828 
+L 269 3319 
+L 1109 4147 
+L 2172 4147 
+L 2172 3306 
+L 1653 3306 
+L 1653 844 
+L 2172 844 
+L 2172 0 
+L 1109 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-34" d="M 2381 0 
+L 2381 4147 
+L 3709 4147 
+L 3709 1388 
+L 4178 1388 
+L 4178 578 
+L 3709 578 
+L 3709 0 
+L 2381 0 
+z
+M 369 578 
+L 41 1347 
+L 2163 3866 
+L 2163 2225 
+L 1409 1388 
+L 2163 1388 
+L 2163 578 
+L 369 578 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-43" d="M 1134 0 
+L 303 828 
+L 303 3319 
+L 1134 4147 
+L 1684 4147 
+L 1684 0 
+L 1134 0 
+z
+M 2822 2484 
+L 2822 3319 
+L 1903 3319 
+L 1903 4147 
+L 3375 4147 
+L 4203 3319 
+L 4203 2484 
+L 2822 2484 
+z
+M 1903 0 
+L 1903 828 
+L 2822 828 
+L 2822 1434 
+L 4203 1434 
+L 4203 828 
+L 3375 0 
+L 1903 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="BlackOpsOne-Regular-57" d="M 1159 0 
+L -81 4147 
+L 1294 4147 
+L 1903 1869 
+L 2319 3609 
+L 2859 1641 
+L 2413 0 
+L 1159 0 
+z
+M 3516 0 
+L 2378 4147 
+L 3772 4147 
+L 4834 0 
+L 3516 0 
+z
+M 4981 216 
+L 4419 2425 
+L 4847 4147 
+L 6106 4147 
+L 4981 216 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#BlackOpsOne-Regular-28"/>
+     <use xlink:href="#BlackOpsOne-Regular-56" x="47.753906"/>
+     <use xlink:href="#BlackOpsOne-Regular-52" x="114.697266"/>
+     <use xlink:href="#BlackOpsOne-Regular-29" x="187.255859"/>
+     <use xlink:href="#BlackOpsOne-Regular-20" x="235.009766"/>
+     <use xlink:href="#BlackOpsOne-Regular-44" x="260.888672"/>
+     <use xlink:href="#BlackOpsOne-Regular-45" x="333.447266"/>
+     <use xlink:href="#BlackOpsOne-Regular-4d" x="402.539062"/>
+     <use xlink:href="#BlackOpsOne-Regular-4f" x="492.773438"/>
+     <use xlink:href="#BlackOpsOne-Regular-20" x="564.208984"/>
+     <use xlink:href="#BlackOpsOne-Regular-34" x="590.087891"/>
+     <use xlink:href="#BlackOpsOne-Regular-20" x="658.056641"/>
+     <use xlink:href="#BlackOpsOne-Regular-43" x="683.935547"/>
+     <use xlink:href="#BlackOpsOne-Regular-44" x="754.248047"/>
+     <use xlink:href="#BlackOpsOne-Regular-57" x="826.806641"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
